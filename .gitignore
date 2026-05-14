@@ -1,4 +1,4 @@
 .env
-   chroma/
-   __pycache__/
-   *.pyc
+chroma/
+__pycache__/
+*.pyc
